@@ -139,7 +139,7 @@ export default function App() {
             '@context': 'https://schema.org',
             '@type': 'WebApplication',
             name: 'Convertitore Testo in Audio MP3',
-            url: 'https://cristianporco.it/app/convertitore-di-testo-in-file-audio-mp3-con-sintesi-vocale/',
+            url: 'https://github.com/bonciarello/convertitore-di-testo-in-file-audio-mp3-con-sintesi-vocale/',
             description: 'Converti qualsiasi testo in file audio MP3 con sintesi vocale direttamente nel browser. Regola velocità, tono e voce.',
             applicationCategory: 'MultimediaApplication',
             operatingSystem: 'Any',
